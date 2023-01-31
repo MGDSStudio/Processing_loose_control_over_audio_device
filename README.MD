@@ -1,0 +1,2 @@
+This repo shows a trouble with the processing sound library.
+If you leave the activity with the processing graphic and after that create it again - you can not more use sound device to play audio. Help please to find the error or maybe I can use an another library?
